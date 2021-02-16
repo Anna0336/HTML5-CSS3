@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+}
+
+.figure-header {
+    background-color: #445161;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 50px;
+    margin: 0;
+}
+
+.heading-header {
+    color: white;
+    font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 69px;
+display: flex;
+align-items: flex-end;
+}
+
+.image-header {
+    height: 217px;
+
+}
+.header-list {
+    color: white;
+    padding: 40px 15px;
+    list-style: url(images/ticker.svg);
+font-family: Arial;
+font-size: 20px;
+line-height: 23px;
+
+}
+.about {
+    padding: 50px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #333333;
+}
+.figure-about {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.image-about {
+    width: 430px;
+}
+.caption-about {
+    padding-top: 15px;
+    padding-right: 100px;
+    font-size: 16px;
+}
+.heading-about {
+    padding-bottom: 15px;
+    font-family: Arial;
+font-size: 30px;
+line-height: 36px;
+color: #445161;
+}
+.dignity {
+    background-color: #f5f5f5;
+}
+.container-dignity {
+    padding: 25px;
+}
+.heading-dignity {
+    text-align: center;
+    font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #445161;
+
+}
+.dignity-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.dignity-list-img {
+    height: 30px;
+    margin-right: 10px;
+}
+.dignity-article {
+    display: flex;
+    line-height: 24px;
+    width: 45%;
+    align-items: flex-start;
+    padding: 15px;
+    margin-bottom: 30px;
+    font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: #333333;
+}
